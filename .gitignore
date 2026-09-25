@@ -1,0 +1,20 @@
+# DB credentials
+/src/main/resources/db.properties
+
+# Java build output
+/build/
+/bin/
+*.class
+
+# Eclipse
+.metadata/
+
+# Tomcat / server generated files
+Servers/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
